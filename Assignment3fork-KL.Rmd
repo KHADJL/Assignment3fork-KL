@@ -27,4 +27,11 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
+## Adding a Figure
+
+![This is directly from the R Markdown Resources by Adam Pritchard](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Testing for Figures")
+
+
+
+
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
